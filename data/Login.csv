@@ -1,0 +1,4 @@
+User_id,Password,role
+cliff@gmail.com,6b9973a1f0ea8a3cd2bf7f5e2261da72e05a5bbc384bf51733a2c0c02d848b3d,student
+charles@gmail.com,c65b65859229387d9e067f20cec12de6b9dfe1ea56fe9e68cc9bda902ee25a02,professor
+admin,8da193366e1554c08b2870c50f737b9587c3372b656151c4a96028af26f51334,admin
